@@ -1,3 +1,2 @@
 # odin-recipes
--This web site will present odin-recipes site.
--We will be learning basic HTML, usage of tags, elements and atributes.
+In this project we've learned about basics of HTML such as tags, elements, atributes.
